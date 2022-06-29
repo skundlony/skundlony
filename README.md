@@ -2,7 +2,7 @@
 
 ##  📈 My GitHub Stats
 
-<table border="0" align="center">
+<table border="0" align="center" cellspacing="0" cellpadding="0">
 <tr border="0">
 <td width="50%" align="center">
   
